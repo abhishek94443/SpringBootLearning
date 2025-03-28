@@ -1,0 +1,11 @@
+{
+	"id": 1,
+	"name": "Abhishek Dwivedi",
+	"email": "abhishekdwivedi94443@gmail.com",
+	"phone": 8319866927,
+	"addr": {
+		"city": "Shahdol",
+		"state": "Madhya Pradesh",
+		"country": "India"
+	}
+}
